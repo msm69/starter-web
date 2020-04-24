@@ -1,7 +1,0 @@
-sampleText.
-
-new text1.
-
-new text2.
-
-new text3.
